@@ -1,5 +1,14 @@
 # CODECLAUSE-INTERNSHIP
 
+🎉 Excited to share that I've successfully completed my internship at CODECLAUSE! 🚀 During this journey, I've delved into the world of web development and had the opportunity to work on some exciting projects:
+
+📝 Entry Level: To-Do List Web App
+🌐 Intermediate Level: Real-time Language Translation Tool
+🌟 Golden Level: Travel App
+🎥 Golden Level: Movie Explorer System
+
+Each project challenged me in unique ways, allowing me to grow and expand my skills in coding, problem-solving, and project management. I'm grateful for the support of my mentors and teammates throughout this experience.
+
 Project live link- 
 
 1- https://65c9ea46b95453c49c0413e1--radiant-sorbet-7721fb.netlify.app/
