@@ -24,7 +24,7 @@ Project live link-
 ![3](https://github.com/abhisek2004/CODECLAUSE-INTERNSHIP/assets/117925314/dc50568b-54d7-4411-8351-78551792468a)
 ![4](https://github.com/abhisek2004/CODECLAUSE-INTERNSHIP/assets/117925314/092a63dd-1894-4277-acb7-b96326c4d2d3)
 
-Language
+Languages
 HTML- 35.6%
 CSS- 37.1%
 JavaScript- 27.3%
